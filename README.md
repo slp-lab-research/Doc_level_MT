@@ -157,5 +157,15 @@ Two-stage fine-tuning with filtered data (Table 5, selected):
 See the paper for the single-metric and two-metric filtering results (Tables 3 and 4) and the sizes of the filtered datasets (Table 1).
 
 ## Citation
-
-Ireh Kim, Tesia Sker, and Chanwoo Kim. *Enhancing Document-Level Machine Translation via Filtered Synthetic Corpora and Two-Stage LLM Adaptation.*
+```bash
+@INPROCEEDINGS{11461046,
+  author={Kim, Ireh and Sker, Tesia and Kim, Chanwoo},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Enhancing Document-Level Machine Translation via Filtered Synthetic Corpora and Two-Stage LLM Adaptation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={18582-18586},
+  keywords={Filtering;Filters;Circuits and systems;Electronic mail;Postal services;Communications technology;Information and communication technology;Internet;Computer networks;Protocols;Machine Translation;Data Augmentation;Large Language Models},
+  doi={10.1109/ICASSP55912.2026.11461046}}
+```
